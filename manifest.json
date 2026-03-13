@@ -1,0 +1,26 @@
+{
+  "name": "야외 봉사 일정표",
+  "short_name": "봉사일정",
+  "description": "경주 동부 회중 야외 봉사 일정 관리",
+  "start_url": "/Service-Field-/",
+  "scope": "/Service-Field-/",
+  "display": "standalone",
+  "background_color": "#f0ede8",
+  "theme_color": "#1a4a7a",
+  "orientation": "portrait-primary",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
